@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Github Status](https://github-readme-stats.vercel.app/api?username=priyanka25081999&show_icons=true&title_color=FBFF00&icon_color=21C500&text_color=FFFC4A&bg_color=000)](https://github.com/priyanka25081999)
 <!--
 **priyanka25081999/priyanka25081999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
