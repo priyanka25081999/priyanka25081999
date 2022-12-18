@@ -2,8 +2,8 @@
 
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/?username=priyanka25081999&layout=compact&show_icon=true&theme=algolia" alt="priyanka25081999-stats"/>
-<img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=priyanka25081999&theme=algolia&background=0d1117&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/?username=priyanka25081999&layout=compact&show_icon=true&theme=algolia" alt="priyanka25081999-stats"/>
+<img height="175em" src="http://github-readme-streak-stats.herokuapp.com?user=priyanka25081999&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 <!--
 **priyanka25081999/priyanka25081999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
