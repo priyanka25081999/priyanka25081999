@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/priyanka25081999?style=social" /> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/priyanka25081999?style=social" /> &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=priyanka25081999&color=green)
 
 
-<div>
+<div align="center">
 <img height="190em" src="https://github-readme-stats.vercel.app/api/?username=priyanka25081999&layout=compact&show_icon=true&theme=algolia" alt="priyanka25081999-stats"/>
 <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=priyanka25081999&theme=algolia&background=0d1117&hide_border=true" />
 </div>
