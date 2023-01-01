@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 -->
 
-
 <br>
 
 ![Snake animation](https://github.com/priyanka25081999/priyanka25081999/blob/output/github-contribution-grid-snake.svg)
