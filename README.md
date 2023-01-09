@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <br>
 
-![Snake animation](https://github.com/priyanka25081999/priyanka25081999/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/priyanka25081999/priyanka25081999/blob/output/github-contribution-grid-snake.svg)-->
