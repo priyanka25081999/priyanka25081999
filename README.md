@@ -1,4 +1,4 @@
-<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/priyanka25081999?style=social" /> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/priyanka25081999?style=social" /> &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=priyanka25081999&color=green) -->
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/priyanka25081999?style=social" /> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/priyanka25081999?style=social" /> &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=priyanka25081999&color=green) 
 
 
 <div align="center">
